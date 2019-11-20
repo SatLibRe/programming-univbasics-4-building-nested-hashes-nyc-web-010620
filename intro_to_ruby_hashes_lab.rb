@@ -8,7 +8,7 @@ end
 
 def monopoly_with_third_tier {
   railroads: {
-    pieces: 4
+    :pieces=>4
   }
 }
   
